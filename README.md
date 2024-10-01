@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shakishnavi Murugan</h1>
-<h3 align="center">DevOps Engineer | Full stack developer | UIUX Engineer</h3>
+<h2 align="center">DevOps Engineer | Full stack developer | UIUX Engineer</h2>
+<h3>Fueled by a deep interest in turning ideas into innovative software solutions, I have developed a
+strong foundation in backend and frontend development tools. In the process of building software
+solutions during my academic and personal projects, I have demonstrated strong problem-solving
+skills, an ability to work collaboratively in teams, and a commitment to continuous learning. I am eager
+to apply my knowledge in real-world scenarios.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakishnavim&label=Profile%20views&color=0e75b6&style=flat" alt="shakishnavim" /> </p>
 
