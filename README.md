@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakishnavi Murugan</h1>
-<h2 align="center">DevOps Engineer | Full stack developer | UIUX Engineer</h2>
+<h2 align="center">Software Enginner | DevOps Engineer | Full stack developer | UIUX Engineer</h2>
 <h3>Fueled by a deep interest in turning ideas into innovative software solutions, I have developed a
 strong foundation in backend and frontend development tools. In the process of building software
 solutions during my academic and personal projects, I have demonstrated strong problem-solving
