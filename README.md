@@ -10,8 +10,6 @@ to apply my knowledge in real-world scenarios.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakishnavim" alt="shakishnavim" /></a> </p>
 
-- 🔭 I’m currently working on **VitaCam Project**
-
 - 🌱 I’m currently learning **Kubernetes, Jenkins**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-delta-gules-22.vercel.app/](https://my-portfolio-delta-gules-22.vercel.app/)
